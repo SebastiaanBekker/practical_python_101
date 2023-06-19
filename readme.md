@@ -1,5 +1,7 @@
-https://tinyurl.com/55aed8u3
+## https://tinyurl.com/55aed8u3
 
+
+![image](https://github.com/SebastiaanBekker/practical_python_101/assets/6102886/8e2b48c7-212b-4201-b0bb-0dc67f02bc50)
 
 
 ## Goal of this repository
