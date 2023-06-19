@@ -1,3 +1,7 @@
+https://tinyurl.com/55aed8u3
+
+
+
 ## Goal of this repository
 
 The goal of this repository is to create a hands-on course/primer on python, given the proficiency of LLM's (making code a breeze)
